@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite git in,Chrome 113.0.0.0,,,2023-05-11 11:13:55,2023-05-11 11:18:22,4m - 26.308s,PASSED
+,,,,,,,
+Test Cases/tc2,Chrome 113.0.0.0,,,2023-05-11 11:13:56,2023-05-11 11:18:22,4m - 25.849s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-11 11:13:56,2023-05-11 11:14:03,6.795s,PASSED
+"navigateToUrl(""https://qa-admin.sprintcrowd.com/control-panel/"")",Chrome 113.0.0.0,,,2023-05-11 11:14:03,2023-05-11 11:15:03,59.623s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)""), ""ross@gmail.com"")",Chrome 113.0.0.0,,,2023-05-11 11:15:03,2023-05-11 11:16:05,1m - 2.419s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sprint Crowd/input_PASSWORD_formGroupPassword (1)""), ""RigbBhfdqOBDK95asqKeHw=="")",Chrome 113.0.0.0,,,2023-05-11 11:16:05,2023-05-11 11:17:08,1m - 2.949s,PASSED
+"click(findTestObject(""Object Repository/Page_Sprint Crowd/span_Login (1)""))",Chrome 113.0.0.0,,,2023-05-11 11:17:08,2023-05-11 11:17:41,33.295s,PASSED
+"click(findTestObject(""Object Repository/Page_Sprint Crowd/p_Logout (1)""))",Chrome 113.0.0.0,,,2023-05-11 11:17:41,2023-05-11 11:18:22,40.407s,PASSED

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite git in" time="266.308" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite git in" tests="1" failures="0" errors="0" time="266.308" skipped="0" timestamp="2023-05-11 11:13:55" hostname="ideabits - hansiw" id="Test Suites/New Test Suite git in">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/ideabits/git/katalon-git-ideabits/Reports/20230511_111353/New Test Suite git in/20230511_111353"/>
+         <property name="logFiles" value="/Users/ideabits/git/katalon-git-ideabits/Reports/20230511_111353/New Test Suite git in/20230511_111353/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ideabits - hansiw"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 113.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.39"/>
+         <property name="sessionId" value="aa76bbeb70659c4044d752c1aa83193c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/tc2" time="265.849" classname="Test Cases/tc2" status="PASSED">
+         <system-out><![CDATA[2023-05-11 11:13:56 - [TEST_CASE][PASSED] - Test Cases/tc2: Test Cases/tc2
+
+2023-05-11 11:13:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-05-11 11:13:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-05-11 11:13:56 - [MESSAGE][INFO] - Action delay is set to 30,000 milliseconds
+
+2023-05-11 11:14:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-05-11 11:14:03 - [TEST_STEP][PASSED] - navigateToUrl("https://qa-admin.sprintcrowd.com/control-panel/"): Navigate to 'https://qa-admin.sprintcrowd.com/control-panel/' successfully
+
+2023-05-11 11:15:03 - [MESSAGE][PASSED] - Navigate to 'https://qa-admin.sprintcrowd.com/control-panel/' successfully
+
+2023-05-11 11:15:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)"), "ross@gmail.com"): Text 'ross@gmail.com' is set on object 'Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)'
+
+2023-05-11 11:16:05 - [MESSAGE][PASSED] - Text 'ross@gmail.com' is set on object 'Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)'
+
+2023-05-11 11:16:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sprint Crowd/input_PASSWORD_formGroupPassword (1)"), "RigbBhfdqOBDK95asqKeHw=="): Text ****** has been set on object 'Object Repository/Page_Sprint Crowd/input_PASSWORD_formGroupPassword (1)'
+
+2023-05-11 11:17:08 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sprint Crowd/input_PASSWORD_formGroupPassword (1)'
+
+2023-05-11 11:17:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sprint Crowd/span_Login (1)")): Object: 'Object Repository/Page_Sprint Crowd/span_Login (1)' is clicked on
+
+2023-05-11 11:17:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sprint Crowd/span_Login (1)' is clicked on
+
+2023-05-11 11:17:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sprint Crowd/p_Logout (1)")): Object: 'Object Repository/Page_Sprint Crowd/p_Logout (1)' is clicked on
+
+2023-05-11 11:18:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sprint Crowd/p_Logout (1)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-05-11 11:13:55 - [TEST_SUITE][PASSED] - New Test Suite git in: Test Cases/tc2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
