@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://qa-admin.sprintcrowd.com/control-panel/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)'), 'ssss@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Sprint Crowd/input_EMAIL_formGroupEmail (1)'), 'sss@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sprint Crowd/input_PASSWORD_formGroupPassword (1)'), 'RigbBhfdqOBDK95asqKeHw==')
 
